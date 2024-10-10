@@ -38,3 +38,4 @@ public class Contrat implements Serializable{
 	@Enumerated(EnumType.STRING)
 	private TypeContrat type;
 }
+//Comment
